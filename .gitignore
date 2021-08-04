@@ -1,0 +1,8 @@
+bin
+obj
+MKL_*
+*.MKL.*
+.DS_Store
+._*
+*.tb
+.vs
